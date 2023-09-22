@@ -5,6 +5,8 @@ Welcome to my Valorant Professional Player Data Analysis Project. In the fast-gr
 
 
 
-## Business Problem
+## Questions to Answer
+1. Who is the most "valuable" player in Valorant?
+2. 
 
 
