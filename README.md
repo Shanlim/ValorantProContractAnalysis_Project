@@ -5,11 +5,16 @@ Welcome to the comprehensive analysis of the Valorant Champions Tournament 2023!
 
 
 ## Questions to Answer
-1. [**What were the performance metrics of the most valuable players?**](#what-were-the-performance-metrics-of-the-most-valuable-players)
-2. [**Who were the most valuable players of the tournament?**](#who-were-the-most-valuable-players-of-the-tournament)
-3. [**Who were the most undervalued players of the tournament?**](#who-were-the-most-undervalued-players-of-the-tournament)
-4. [**Which regions have the most potential future contract prospects?**](#which-regions-have-the-most-potential-future-contract-prospects)
-5. [**Which players can be recommended as contract prospects?**](#which-players-can-be-recommended-as-contract-prospects)
+1. [**Who were the most valuable players of the tournament?**](#who-were-the-most-valuable-players-of-the-tournament)
+2. [**What were the performance metrics of the most valuable players?**](#what-were-the-performance-metrics-of-the-most-valuable-players)
+4. [**Who were the most undervalued players of the tournament?**](#who-were-the-most-undervalued-players-of-the-tournament)
+5. [**Which regions have the most potential future contract prospects?**](#which-regions-have-the-most-potential-future-contract-prospects)
+6. [**Which players can be recommended as contract prospects?**](#which-players-can-be-recommended-as-contract-prospects)
+
+   
+## Who were the most valuable players of the tournament?
+
+
 
 ## What were the performance metrics of the most valuable players?
 The Value Player Rating (VPR) was created based on insights from this [YouTube video](https://www.youtube.com/watch?v=7QCR19qYPgI).
@@ -45,7 +50,7 @@ The formula used for calculating VPR is as follows:
 
 
 
-## Who were the most valuable players of the tournament?
+
 
 ## Who were the most undervalued players of the tournament?
 
