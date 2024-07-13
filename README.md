@@ -32,8 +32,13 @@ An Interactive PowerBI dashboard can be found here.
 ## Summary of Insights
 
 ### Tournament Insights:
+   - The Valorant Champions 2023 Tournament meta was defined by a high controller pick rate, an emphasis on picking high mobility duelists (ex. Jett, Raze) and initiators that can support aggressive site takes. The sentinal role was picked at an observably lower rate.
 
+   - Although the sentinal role was the lowest player role, the highest played agent was Killjoy (sentinal)
+
+   - Teams with a positive FKFD ratio > 1 (FK Per Round were greater than FD Per Round) 
 ### VPR on Role:
+   - Duelist had the highest
 
 ### VPR on Region:
 
