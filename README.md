@@ -1,7 +1,41 @@
-# Valorant Champions 2023 Tournament Analysis
+# Valorant Champions 2023 Tournament Player Value Analysis
 
 ## Introduction
-Welcome to the comprehensive analysis of the Valorant Champions Tournament 2023! This repository offers an in-depth examination of player performance, team strategies, and overall tournament outcomes. Our objective is to provide valuable insights into the competitive landscape of Valorant, emphasizing key metrics and trends that can guide decisions on player valuations for future contracts. Explore the data to uncover which players stood out, how teams strategized, and where potential opportunities lie for roster enhancements.
+Analyzing player value trends based on player performance during the Valorant Champions Tournament 2023 to make informed recommendations on player contract acquisition.
+
+An Interactive PowerBI dashboard can be found here.
+
+
+
+## How the Value Player Rating (VPR) was constructed
+
+**VPR = (KPR * 0.8) + (APR * 0.5) + (Clutch % * 0.25) + (FKFD * 0.2) + (KAST % * 0.4)**
+
+### Metrics Explained
+
+1. **KPR**: Average Kills Per Round
+   
+2. **APR**: Average Assist Per Round
+  
+3. **Clutch %**: Clutch Rate Percentage (Won/Played)
+   - **Importance**: Measures a player's ability to perform in high-pressure situations, and is representative of a players reliability in the clutch.
+   
+4. **FKFD**: First Kill First Death Ratio
+   - **Importance**: Measures how often a player gets the first kill versus being the first to die in a given round. A high FKFD ratio shows that a player consistently contributes to gaining an early numbers advantage for their team in a given round.
+   
+5. **KAST %**: Impact Percentage (Kills, Assists, Survived, and Traded Percentage)
+   - **Importance**: Measures the percentage of rounds in which a player either got a kill, assist, survived, or was traded. A high KAST % indicates a player's consistency in bringing value to their team in every round.
+
+
+
+
+## Summary of Insights
+
+### Tournament Insights:
+
+### VPR on Role:
+
+### VPR on Region:
 
 
 ## Questions to Answer
