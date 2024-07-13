@@ -1,7 +1,7 @@
 # Valorant Champions 2023 Tournament Player Value Analysis
 
 ## Introduction
-Analyzing player value trends based on player performance during the Valorant Champions Tournament 2023 to make informed recommendations on player contract acquisition.
+Analyzing player metric trends based on player performance during the Valorant Champions Tournament 2023 to make informed recommendations on player contract acquisition based on a player value rating.
 
 An Interactive PowerBI dashboard can be found here.
 
