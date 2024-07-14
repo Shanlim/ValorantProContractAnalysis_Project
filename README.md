@@ -28,19 +28,32 @@ An Interactive PowerBI dashboard can be found here.
 
 
 
-
 ## Summary of Insights
 
 ### Tournament Insights:
-   - The Valorant Champions 2023 Tournament meta was defined by a high controller pick rate, an emphasis on picking high mobility duelists (ex. Jett, Raze) and initiators that can support aggressive site takes. The sentinal role was picked at an observably lower rate.
+![Tournament Analysis](./Tournament%20Analysis.png)
+[PowerBI Dashboard]([link_to_dashboard](https://ucsdcloud-my.sharepoint.com/:u:/r/personal/shl120_ucsd_edu/Documents/ValorantChampionsTour2023.pbix?csf=1&web=1&e=5tBqj5))
+- **Player Role Distribution**: **Controllers** dominated the tournament, being the most represented role. This indicates their crucial role in controlling the tempo of the game.
+- **Meta Trends**: The meta revolved around **Killjoy** and **Controller** agents, which were pivotal in holding sites and providing team support. Mobility-based agents like **Jett** and **Raze** were frequently picked to counteract this meta, providing aggressive plays and opening opportunities for their teams.
+- **Killjoy Dominance**: Despite **Sentinels** being the least represented role, **Killjoy** was the most picked agent, proving her value in the tournament and her effectiveness in an underrepresented role.
 
-   - Although the sentinal role was the lowest player role, the highest played agent was Killjoy (sentinal)
-
-   - Teams with a positive FKFD ratio > 1 (FK Per Round were greater than FD Per Round) 
 ### VPR on Role:
-   - Duelist had the highest
+![Player Value by Role](./Player%20Value%20by%20Role.png)
+[PowerBI Dashboard]([link_to_dashboard](https://ucsdcloud-my.sharepoint.com/:u:/r/personal/shl120_ucsd_edu/Documents/ValorantChampionsTour2023.pbix?csf=1&web=1&e=EjGg6S))
+- **Top Performers by Role**: **Duelists** generally had the highest VPRs, showcasing their impactful presence in matches through high kill counts and clutch performances. Players like **kez1nit** and **aspas** were standout Duelists. **Initiators** also showed strong VPRs, emphasizing their role in creating opportunities for their teams, with players like **Leo** and **Cloud** leading the way.
+- **Role-Specific Insights**: **Sentinels**, while less common, had players like **Demon1** and **SUYGETSU** with high VPRs, indicating standout performances that are critical despite the overall lower representation of the role.
+- **Contract Considerations**: When considering contracts, prioritize high VPR players from roles that consistently impact the game, like **Duelists** and **Initiators**, while also recognizing exceptional performances from underrepresented roles like **Sentinels**.
 
 ### VPR on Region:
+![Player Value by Region](./Player%20Value%20by%20Region.png)
+[PowerBI Dashboard]([link_to_dashboard](https://ucsdcloud-my.sharepoint.com/:u:/r/personal/shl120_ucsd_edu/Documents/ValorantChampionsTour2023.pbix?csf=1&web=1&e=ke6H0L))
+- **Regional Strengths**: Players from regions like **Europe** and **North America** generally had higher VPRs, indicating a higher level of competition and individual performance in these regions. Players like **Demon1** from North America and **Leo** from Europe exemplify this trend.
+- **Regional Weaknesses**: Certain regions like **China** showed lower overall VPRs, suggesting a potential gap in competitive experience or performance.
+- **Regional Contract Recommendations**: Focus on acquiring top-performing players from strong regions to ensure high-impact signings. Additionally, consider scouting emerging talents from regions with lower VPRs but high potential for growth.
+
+
+
+
 
 
 ## Questions to Answer
