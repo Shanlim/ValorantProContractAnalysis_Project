@@ -39,20 +39,32 @@ An Interactive PowerBI dashboard can be found [here](https://ucsdcloud-my.sharep
 ### VPR on Role:
 ![VPR by Role](https://github.com/Shanlim/Valorant-Pro-Analysis/blob/main/DashboardImages/VPR%20by%20Role.png)
 
-- **Top Performers by Role**: **Duelists** generally had the highest VPRs, showcasing their impactful presence in matches through high kill counts and clutch performances. Players like **kez1nit** and **aspas** were standout Duelists. **Initiators** also showed strong VPRs, emphasizing their role in creating opportunities for their teams, with players like **Leo** and **Cloud** leading the way.
-- **Role-Specific Insights**: **Sentinels**, while less common, had players like **Demon1** and **SUYGETSU** with high VPRs, indicating standout performances that are critical despite the overall lower representation of the role.
-- **Contract Considerations**: When considering contracts, prioritize high VPR players from roles that consistently impact the game, like **Duelists** and **Initiators**, while also recognizing exceptional performances from underrepresented roles like **Sentinels**.
+- **Top Performers by Role**: **Duelists** had the highest average VPRs across all roles, showcasing their impactful presence in matches through high kill counts and above-average FKFD scores. Players like **kez1nit** and **aspas** were standout Duelists. **Initiators** also showed strong VPRs, showing a greater emphasis on both assists and KAST %, emphasizing their role in creating value through making opportunities and supporting their team, with players like **Leo** and **Cloud** leading the way.
+
+- **Role-Specific Insights**: **Sentinels**, while the least represented role, had players like **Demon1** and **SUYGETSU** with tournament-high VPRs, indicating standout performances that are critical despite the overall lower representation of the role.
 
 ### VPR on Region:
 ![VPR by Region](https://github.com/Shanlim/Valorant-Pro-Analysis/blob/main/DashboardImages/VPR%20by%20Region.png)
 
-- **Regional Strengths**: Players from regions like **Europe** and **North America** generally had higher VPRs, indicating a higher level of competition and individual performance in these regions. Players like **Demon1** from North America and **Leo** from Europe exemplify this trend.
-- **Regional Weaknesses**: Certain regions like **China** showed lower overall VPRs, suggesting a potential gap in competitive experience or performance.
+- **Regional Strengths**: Players from regions with well-developed and tenured esports organizations like **Europe** and **North America** generally had higher VPRs, indicating a higher level of competition and individual performance in these regions. Players like **Demon1** from North America and **Leo** from Europe exemplify this trend.
+
+- **Regional Weaknesses**: Certain regions like **China** showed lower overall VPRs, suggesting a potential gap in competitive experience or performance. While regions with less developed esports scenes, like **Brazil** and **Latin America South**, were represented by only one team.
+
+
+## Considerations and Next Steps
+
+- 
+
+
+
+## Player Contract/Talent Acquisition Recommendations
+
+
+
+VPR ON ROLE
+- **Contract Considerations**: When considering contracts, prioritize high VPR players from roles that consistently impact the game, like **Duelists** and **Initiators**, while also recognizing exceptional performances from underrepresented roles like **Sentinels**.
+
 - **Regional Contract Recommendations**: Focus on acquiring top-performing players from strong regions to ensure high-impact signings. Additionally, consider scouting emerging talents from regions with lower VPRs but high potential for growth.
-
-
-
-
 
 
 ## Questions to Answer
@@ -63,51 +75,6 @@ An Interactive PowerBI dashboard can be found [here](https://ucsdcloud-my.sharep
 6. [**Which players can be recommended as contract prospects?**](#which-players-can-be-recommended-as-contract-prospects)
 
    
-## Who were the most valuable players of the tournament?
-
-
-
-## What were the performance metrics of the most valuable players?
-The Value Player Rating (VPR) was created based on insights from this [YouTube video](https://www.youtube.com/watch?v=7QCR19qYPgI).
-
-### How was the VPR created
-The VPR is a composite metric designed to evaluate a player's overall impact on the game. It incorporates several key performance metrics that indicate how much value a player contributes through their performance.
-
-The formula used for calculating VPR is as follows:
-
-[ VPR = (KPR * 0.8) + (APR * 0.5) + (Clutch % * 0.25) + (FKFD * 0.2) + (KAST % * 0.4) ]
-
-### Explanation of Variables
-
-1. **KPR (Average Kills Per Round)**:
-   - **Importance**: High kill rates are essential for securing rounds and maintaining map control. Kills directly influence the outcome of each round by reducing the opposing team's ability to fight back.
-   - **Justification**: Weighted at 0.8 to emphasize the direct impact of kills on the game while maintaining a balance with other performance metrics. Kills are crucial for individual player impact but should not overshadow the importance of teamwork and other contributions.
-
-2. **APR (Average Assists Per Round)**:
-   - **Importance**: Assists indicate teamwork and the ability to contribute to kills even without landing the final shot. Assists often reflect a player's support role and their contribution to team play.
-   - **Justification**: Weighted at 0.4 as assists are important but secondary to kills in terms of individual impact. This weight ensures that assists are valued for their role in team dynamics but are not overly emphasized compared to direct eliminations.
-
-3. **CL_percentage (Clutch Percentage)**:
-   - **Importance**: Clutch plays often turn the tide of a round, showcasing a player's ability to perform under pressure.
-   - **Justification**: Weighted at 0.25 since clutch moments, while impactful, occur less frequently and should be balanced with consistent performance metrics.
-
-4. **FKFD (First Kill First Death Ratio)**:
-   - **Importance**: Securing the first kill in a round provides a significant advantage, while minimizing early deaths reduces the team's risk.
-   - **Justification**: Weighted at 0.2 to reflect its importance in gaining early-round advantages without overshadowing other metrics.
-
-5. **KAST_percentage (Kills, Assists, Survived, and Traded Percentage)**:
-   - **Importance**: A comprehensive metric indicating overall effectiveness in multiple aspects of play.
-   - **Justification**: Weighted at 0.4 as it combines several critical factors of player performance, providing a holistic view of their impact on the game.
-
-
-
-
-
-## Who were the most undervalued players of the tournament?
-
-## Which regions have the most potential future contract prospects?
-
-## Which players can be recommended as contract prospects?
 
 
 
