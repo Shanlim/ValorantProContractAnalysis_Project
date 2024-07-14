@@ -4,7 +4,7 @@
 Analyzing player metric trends based on player performance during the Valorant Champions Tournament 2023 to make informed recommendations on player contract acquisition based on a player value rating.
 
 An Interactive PowerBI dashboard can be found [here](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/shl120_ucsd_edu/EfcTBjjniRZKg3CukQeZnQoBDGNTdzu2gndn51dSTwI3WA?e=dpx1o3).
-
+![Tournament Analysis](https://github.com/Shanlim/Valorant-Pro-Analysis/blob/main/DashboardImages/Tournament%20Analysis.png)
 
 
 ## How the Value Player Rating (VPR) was constructed
@@ -31,8 +31,6 @@ An Interactive PowerBI dashboard can be found [here](https://ucsdcloud-my.sharep
 ## Summary of Insights
 
 ### Tournament Insights:
-![Tournament Analysis](https://github.com/Shanlim/Valorant-Pro-Analysis/blob/main/DashboardImages/Tournament%20Analysis.png)
-
 
 - **Player Role Distribution**: **Controllers** dominated the tournament, being the most represented role. This indicates their crucial role in controlling the tempo of the game.
 - **Meta Trends**: The meta revolved around **Killjoy** and **Controller** agents, which were pivotal in holding sites and providing team support. Mobility-based agents like **Jett** and **Raze** were frequently picked to counteract this meta, providing aggressive plays and opening opportunities for their teams.
