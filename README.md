@@ -3,7 +3,7 @@
 ## Introduction
 Analyzing player metric trends based on player performance during the Valorant Champions Tournament 2023 to make informed recommendations on player contract acquisition based on a player value rating.
 
-An Interactive PowerBI dashboard can be found [here](https://ucsdcloud-my.sharepoint.com/:u:/r/personal/shl120_ucsd_edu/Documents/ValorantChampionsTour2023.pbix?csf=1&web=1&e=8JpSk3).
+An Interactive PowerBI dashboard can be found [here](https://ucsdcloud-my.sharepoint.com/:u:/g/personal/shl120_ucsd_edu/EfcTBjjniRZKg3CukQeZnQoBDGNTdzu2gndn51dSTwI3WA?e=dpx1o3).
 
 
 
