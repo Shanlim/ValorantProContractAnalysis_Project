@@ -76,8 +76,8 @@ An Interactive PowerBI dashboard can be found [here](https://ucsdcloud-my.sharep
 - **Contract Status**: Ardiis's contract is set to end in 2024, which is earlier than NRG's franchise players, whose contracts extend to 2025. This presents a timely opportunity for other organizations to acquire a high-potential player.
 
 
-
-- **Less**, from LOUD
+### Less (LOUD)
+![Less](https://github.com/Shanlim/Valorant-Pro-Analysis/blob/main/PlayerImages/Less.png)
 
 - Brazilian player who would be encouraged to be picked up form a larger esports organization based in North America or Europe
 
@@ -88,13 +88,17 @@ An Interactive PowerBI dashboard can be found [here](https://ucsdcloud-my.sharep
 - Is playing for a North American team with Non-resident status, thus making being picked up by a North American Team more alluring
 
 
--**keznit**
+### Keznit (KRÜ)
+![Keznit](https://github.com/Shanlim/Valorant-Pro-Analysis/blob/main/PlayerImages/Keznit.png)
 
 - Did not make it far into the tournament, but in the less than 100 rounds which is played which is almost less than everyone else, he came out as the number 1 scorer VPR in the entire tournament, make sure to look at his previous games to see if he is consistenct
 
-- 
 
--**COM**
+### C0m (EG)
+![C0m](https://github.com/Shanlim/Valorant-Pro-Analysis/blob/main/PlayerImages/COM.png)
+
+
+
 
 - second best clutch rate, but the most clutches played, meaning the player is extrememly valuable underpressue
 
