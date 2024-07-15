@@ -51,28 +51,53 @@ An Interactive PowerBI dashboard can be found [here](https://ucsdcloud-my.sharep
 - **Regional Weaknesses**: Certain regions like **China** showed lower overall VPRs, suggesting a potential gap in competitive experience or performance. While regions with less developed esports scenes, like **Brazil** and **Latin America South**, were represented by only one team.
 
 
-## Considerations and Next Steps
+## Recommendations and Next Steps
 
-- 
+- Investigate player match histories of players with high VPRs but low # of rounds played to see if these players have been consistently valuable. (Three of the tournament's top six players played less than 200 rounds)
 
+- Consider the leverage of the offering Esports organization. Organizations can import players at lower contract offers from regions with underdeveloped esports scenes, such as Brazil. It is common for North American or European organizations to import players (scout emerging talent from different regions).
+
+- Look at offering contracts to undervalued players, or players that might thrive within a different role based on their performance and the necessity for filling in a position.
 
 
 ## Player Contract/Talent Acquisition Recommendations
 
+- **Ardiis**,
 
+- WHY:
+1. He as a sentinal Role had a really High First Kill Per Round, which was undervalued when placed into the VPR equation due to his also decently high First Death Per Round score. Thus I think if he were placed in a role that leveraged high First Kill per round picks like duelist he would thrive and be. Even though he is a sentinal role, he is in the top 5 of all players for FKPR score
+
+2. His contract with NRG ends earlier (2024) than the other Franchise players on NRG whose contracts end in 2025
+
+3. NRG did not make it out of the group stage to playeroffs, so they might be considering roster changes for the season
+
+4. Might have been undervalued for his inability to clutch, but still remains a solid pick up
+
+- **Less**, from LOUD
+
+- Brazilian player who would be encouraged to be picked up form a larger esports organization based in North America or Europe
+
+- Although was outperformed VPR wise to his teamate aspas which was a top 3 VPR player in thr entire tournament, he remained to have similar KPR and APR stats thus he is undervalued
+
+- he was the second best performer in his role category of controller
+
+- Is playing for a North American team with Non-resident status, thus making being picked up by a North American Team more alluring
+
+
+-**keznit**
+
+- Did not make it far into the tournament, but in the less than 100 rounds which is played which is almost less than everyone else, he came out as the number 1 scorer VPR in the entire tournament, make sure to look at his previous games to see if he is consistenct
+
+- 
+
+-**COM**
+
+- second best clutch rate, but the most clutches played, meaning the player is extrememly valuable underpressue
 
 VPR ON ROLE
 - **Contract Considerations**: When considering contracts, prioritize high VPR players from roles that consistently impact the game, like **Duelists** and **Initiators**, while also recognizing exceptional performances from underrepresented roles like **Sentinels**.
 
 - **Regional Contract Recommendations**: Focus on acquiring top-performing players from strong regions to ensure high-impact signings. Additionally, consider scouting emerging talents from regions with lower VPRs but high potential for growth.
-
-
-## Questions to Answer
-1. [**Who were the most valuable players of the tournament?**](#who-were-the-most-valuable-players-of-the-tournament)
-2. [**What were the performance metrics of the most valuable players?**](#what-were-the-performance-metrics-of-the-most-valuable-players)
-4. [**Who were the most undervalued players of the tournament?**](#who-were-the-most-undervalued-players-of-the-tournament)
-5. [**Which regions have the most potential future contract prospects?**](#which-regions-have-the-most-potential-future-contract-prospects)
-6. [**Which players can be recommended as contract prospects?**](#which-players-can-be-recommended-as-contract-prospects)
 
    
 
