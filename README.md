@@ -62,7 +62,8 @@ An Interactive PowerBI dashboard can be found [here](https://ucsdcloud-my.sharep
 
 ## Player Contract/Talent Acquisition Recommendations
 
-#### Ardiis (Team: NRG)
+### Ardiis (NRG) 
+![Ardiis](https://github.com/Shanlim/Valorant-Pro-Analysis/blob/main/PlayerImages/Ardiis.png)
 
 - **Overall Performance**: Top 4 in Value Player Rating (VPR) for **Sentinels** with the highest First Kill Per Round (FKPR) score among Sentinals, including **Demon1** (another Sentinal player who had the highest VPR score in the entire tournament). Ardiis ranked top 20 in VPR overall and top 5 in FKPR overall.
 
