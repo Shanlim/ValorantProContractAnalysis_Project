@@ -62,16 +62,19 @@ An Interactive PowerBI dashboard can be found [here](https://ucsdcloud-my.sharep
 
 ## Player Contract/Talent Acquisition Recommendations
 
-- **Ardiis**,
+#### Ardiis (Team: NRG)
 
-- WHY:
-1. He as a sentinal Role had a really High First Kill Per Round, which was undervalued when placed into the VPR equation due to his also decently high First Death Per Round score. Thus I think if he were placed in a role that leveraged high First Kill per round picks like duelist he would thrive and be. Even though he is a sentinal role, he is in the top 5 of all players for FKPR score
+- **Overall Performance**: Top 4 in Value Player Rating (VPR) for **Sentinels** with the highest First Kill Per Round (FKPR) score among Sentinals, including **Demon1** (another Sentinal player who had the highest VPR score in the entire tournament). Ardiis ranked top 20 in VPR overall and top 5 in FKPR overall.
 
-2. His contract with NRG ends earlier (2024) than the other Franchise players on NRG whose contracts end in 2025
+- **Undervaluation**: Despite his high FKPR, Ardiis appears undervalued in VPR overall due to his 0/9 clutch performance and a moderate First Death Per Round (FDPR) score, masking his high FKPR impact.
 
-3. NRG did not make it out of the group stage to playeroffs, so they might be considering roster changes for the season
+- **Role Flexibility**: High FKPR suggests potential in a Duelist role, which could improve his First Kill First Death Ratio (FKFD) by reducing FDPR. The Duelist role would also provide him with better tools to perform in the clutch.
 
-4. Might have been undervalued for his inability to clutch, but still remains a solid pick up
+- **Team Performance**: Ardiis's team, **NRG**, did not advance past the group stage, possibly prompting the organization to consider roster changes for the upcoming season. 
+
+- **Contract Status**: Ardiis's contract is set to end in 2024, which is earlier than NRG's franchise players, whose contracts extend to 2025. This presents a timely opportunity for other organizations to acquire a high-potential player.
+
+
 
 - **Less**, from LOUD
 
