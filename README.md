@@ -65,28 +65,42 @@ An Interactive PowerBI dashboard can be found [here](https://ucsdcloud-my.sharep
 ### Ardiis (NRG) 
 ![Ardiis](https://github.com/Shanlim/Valorant-Pro-Analysis/blob/main/PlayerImages/Ardiis.png)
 
-- **Overall Performance**: Top 4 in Value Player Rating (VPR) for **Sentinels** with the highest First Kill Per Round (FKPR) score among Sentinals, including **Demon1** (another Sentinal player who had the highest VPR score in the entire tournament). Ardiis ranked top 20 in VPR overall and top 5 in FKPR overall.
+- **Overall Performance**:
+   - **Top 4 in Value Player Rating (VPR) for Sentinels** with the highest First Kill Per Round (FKPR) score among Sentinals, including **Demon1** (another Sentinal player who had the highest VPR score in the entire tournament).
+   - Ranked top 20 in VPR overall and top 5 in FKPR overall.
 
-- **Undervaluation**: Despite his high FKPR, Ardiis appears undervalued in VPR overall due to his 0/9 clutch performance and a moderate First Death Per Round (FDPR) score, masking his high FKPR impact.
+- **Undervaluation**:
+   - Despite his high FKPR, Ardiis appears undervalued in VPR overall due to his 0/9 clutch performance and a moderate First Death Per Round (FDPR) score, masking his high FKPR impact.
 
-- **Role Flexibility**: High FKPR suggests potential in a Duelist role, which could improve his First Kill First Death Ratio (FKFD) by reducing FDPR. The Duelist role would also provide him with better tools to perform in the clutch.
+- **Role Flexibility**:
+   - High FKPR suggests potential in a Duelist role, which could improve his First Kill First Death Ratio (FKFD) by reducing FDPR.
+   - The Duelist role would also provide him with better tools to perform in the clutch.
 
-- **Team Performance**: Ardiis's team, **NRG**, did not advance past the group stage, possibly prompting the organization to consider roster changes for the upcoming season. 
+- **Team Performance**:
+   - Ardiis's team, **NRG**, did not advance past the group stage, possibly prompting the organization to consider roster changes for the upcoming season. 
 
-- **Contract Status**: Ardiis's contract is set to end in 2024, which is earlier than NRG's franchise players, whose contracts extend to 2025. This presents a timely opportunity for other organizations to acquire a high-potential player.
+- **Contract Status**:
+   - Ardiis's contract is set to end in 2024, which is earlier than NRG's franchise players, whose contracts extend to 2025. This presents a timely opportunity for other organizations to acquire a high-potential player.
 
 
 ### Less (LOUD)
 ![Less](https://github.com/Shanlim/Valorant-Pro-Analysis/blob/main/PlayerImages/Less.png)
 
-- Brazilian player who would be encouraged to be picked up form a larger esports organization based in North America or Europe
+- **Overall Performance**:
+  - **Top 2 in VPR for Controllers** with the highest Kills Per Round (KPR) score among controllers.
+  - **12th place in overall tournament VPR** and **11th in overall tournament KPR**, with the next highest controller's KPR ranking 16th.
 
-- Although was outperformed VPR wise to his teamate aspas which was a top 3 VPR player in thr entire tournament, he remained to have similar KPR and APR stats thus he is undervalued
+- **Value**:
+   - High KPR for his role indicates his consistency in confirming trades and securing kills while playing in a role not typically focused on kills, showing his efficiency as a prospective player.
+   - Second highest FKFD ratio in the controller category.
+   - Similar KPR and APR to his teammate **aspas**, a duelist and the third overall most valuable player in the tournament by VPR.
 
-- he was the second best performer in his role category of controller
+- **Contract Status**:
+   - Contract with **LOUD** ends in 2023, presenting a prime opportunity for other organizations to offer him a contract.
 
-- Is playing for a North American team with Non-resident status, thus making being picked up by a North American Team more alluring
-
+- **Region Weakness**:
+   - **Brazil** is an underrepresented region in esports, with only LOUD representing the country in the tournament.
+   - Players from weaker regions are encouraged to seek contracts in regions with stronger esports presence like **North America** or **Europe** for better opportunities and growth.
 
 ### Keznit (KRÜ)
 ![Keznit](https://github.com/Shanlim/Valorant-Pro-Analysis/blob/main/PlayerImages/Keznit.png)
