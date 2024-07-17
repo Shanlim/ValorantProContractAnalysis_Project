@@ -66,7 +66,7 @@ I focused on recommending players who have a realistic likelihood of being acqui
 2023 contract information can be found [here](https://web.archive.org/web/20230328015451/https://docs.google.com/spreadsheets/d/e/2PACX-1vRmmWiBmMMD43m5VtZq54nKlmj0ZtythsA1qCpegwx-iRptx2HEsG0T3cQlG1r2AIiKxBWnaurJZQ9Q/pubhtml#
 ).
 
-### Ardiis (NRG) 
+### 1. Ardiis (NRG) 
 ![Ardiis](https://github.com/Shanlim/Valorant-Pro-Analysis/blob/main/PlayerImages/Ardiis.png)
 
 - **Overall Performance**:
@@ -87,7 +87,7 @@ I focused on recommending players who have a realistic likelihood of being acqui
    - Ardiis's contract is set to end in 2024, which is earlier than NRG's franchise players, whose contracts extend to 2025. This presents a timely opportunity for other organizations to acquire a high-potential player.
 
 
-### Less (LOUD)
+### 2. Less (LOUD)
 ![Less](https://github.com/Shanlim/Valorant-Pro-Analysis/blob/main/PlayerImages/Less.png)
 
 - **Overall Performance**:
@@ -106,7 +106,26 @@ I focused on recommending players who have a realistic likelihood of being acqui
    - **Brazil** is an underrepresented region in esports, with only LOUD representing the country in the tournament.
    - Players from weaker regions are encouraged to seek contracts in regions with stronger esports presence like **North America** or **Europe** for better opportunities and growth.
 
-### Keznit (KRÜ)
+### 3. C0m (EG)
+![C0m](https://github.com/Shanlim/Valorant-Pro-Analysis/blob/main/PlayerImages/COM.png)
+
+- **Overall Performance**:
+  - **Top 7 VPR in Controller Role**, **Top 24 VPR in Tournament overall**.
+  - **Top 7 VPR in North American Region**, which is the region with arguably the hardest competition.
+  - **Top 5 in Clutch %** in overall tournament, with the second most number of clutches played and the most number of clutches won overall (20/69). For context, **Cloud** is first in clutch % with 5/11 clutches (won/played).
+  - Even **FKFD ratio** of 1.00.
+
+- **Player Undervaluation**:
+  - According to VPR, C0M is a middle-of-the-pack player.
+  - May be undervalued by VPR due to clutch % being one of the lower-weighted metrics in the VPR calculations.
+  - Remaining top 5 in clutch % despite many clutch situations demonstrates his consistency under high-pressure situations.
+  - Consistent round closer and a solid player that playmaking teammates can rely on.
+
+- **Contract**:
+  - Contract ends in 2024 but may be desirable as his team **EG** would likely focus most resources on other players. By VPR, C0M was fourth on his team, and he has a very conservative FKFD ratio compared to his teammates.
+
+
+### 4. Keznit (KRÜ)
 ![Keznit](https://github.com/Shanlim/Valorant-Pro-Analysis/blob/main/PlayerImages/Keznit.png)
 
 - **Overall Performance**
@@ -129,33 +148,6 @@ I focused on recommending players who have a realistic likelihood of being acqui
   - Players from underrepresented regions should seek contracts in regions with stronger esports presence, like **North America** or **Europe**, for better opportunities and growth.
 
 
-### C0m (EG)
-![C0m](https://github.com/Shanlim/Valorant-Pro-Analysis/blob/main/PlayerImages/COM.png)
-
-
-
-
-### Player Contract/Talent Acquisition Recommendations
-
-### C0M
-
-- **Overall Performance**:
-  - **Top 7 VPR in Controller Role**, **Top 24 VPR in Tournament overall**.
-  - **Top 7 VPR in North American Region**, which is the region with arguably the hardest competition.
-  - **Top 5 in Clutch %** in overall tournament, with the second most number of clutches played and the most number of clutches won overall (20/69). For context, **Cloud** is first in clutch % with 5/11 clutches (won/played).
-  - Even **FKFD ratio** of 1.00.
-
-- **Player Undervaluation**:
-  - According to VPR, C0M is a middle-of-the-pack player.
-  - May be undervalued by VPR due to clutch % being one of the lower-weighted metrics in the VPR calculations.
-  - Remaining top 5 in clutch % despite many clutch situations demonstrates his consistency under high-pressure situations.
-  - Consistent round closer and a solid player that playmaking teammates can rely on.
-
-- **Contract**:
-  - Contract ends in 2024 but may be desirable as his team **EG** would likely focus most resources on other players. By VPR, C0M was fourth on his team, and he has a very conservative FKFD ratio compared to his teammates.
-
-
-   
 
 
 
