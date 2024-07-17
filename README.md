@@ -63,6 +63,9 @@ An Interactive PowerBI dashboard can be found [here](https://ucsdcloud-my.sharep
 ## Player Contract/Talent Acquisition Recommendations
 I focused on recommending players who have a realistic likelihood of being acquired. Therefore, I avoided franchise players and tournament super-performers who are unlikely to be traded by their respective teams, as these teams would likely renew their contracts when they end. I have focused my recommendations on players who are undervalued, efficient, and consistent.
 
+2023 contract information can be found [here](https://web.archive.org/web/20230328015451/https://docs.google.com/spreadsheets/d/e/2PACX-1vRmmWiBmMMD43m5VtZq54nKlmj0ZtythsA1qCpegwx-iRptx2HEsG0T3cQlG1r2AIiKxBWnaurJZQ9Q/pubhtml#
+).
+
 ### Ardiis (NRG) 
 ![Ardiis](https://github.com/Shanlim/Valorant-Pro-Analysis/blob/main/PlayerImages/Ardiis.png)
 
