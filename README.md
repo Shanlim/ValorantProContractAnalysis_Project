@@ -69,7 +69,7 @@ An Interactive PowerBI dashboard can be found [here](https://ucsdcloud-my.sharep
    - **Top 4 in Value Player Rating (VPR) for Sentinels** with the highest First Kill Per Round (FKPR) score among Sentinals, including **Demon1** (another Sentinal player who had the highest VPR score in the entire tournament).
    - Ranked top 20 in VPR overall and top 5 in FKPR overall.
 
-- **Undervaluation**:
+- **Player Undervaluation**:
    - Despite his high FKPR, Ardiis appears undervalued in VPR overall due to his 0/9 clutch performance and a moderate First Death Per Round (FDPR) score, masking his high FKPR impact.
 
 - **Role Flexibility**:
@@ -90,7 +90,7 @@ An Interactive PowerBI dashboard can be found [here](https://ucsdcloud-my.sharep
   - **Top 2 in VPR for Controllers** with the highest Kills Per Round (KPR) score among controllers.
   - **12th place in overall tournament VPR** and **11th in overall tournament KPR**, with the next highest controller's KPR ranking 16th.
 
-- **Value**:
+- **Player Value**:
    - High KPR for his role indicates his consistency in confirming trades and securing kills while playing in a role not typically focused on kills, showing his efficiency as a prospective player.
    - Second highest FKFD ratio in the controller category.
    - Similar KPR and APR to his teammate **aspas**, a duelist and the third overall most valuable player in the tournament by VPR.
@@ -105,7 +105,24 @@ An Interactive PowerBI dashboard can be found [here](https://ucsdcloud-my.sharep
 ### Keznit (KRÜ)
 ![Keznit](https://github.com/Shanlim/Valorant-Pro-Analysis/blob/main/PlayerImages/Keznit.png)
 
-- Did not make it far into the tournament, but in the less than 100 rounds which is played which is almost less than everyone else, he came out as the number 1 scorer VPR in the entire tournament, make sure to look at his previous games to see if he is consistenct
+- **Overall Performance**
+   - **Ranked number 1 in VPR** and **FKFD** in the overall tournament. Keznit's First Kill First Death (FKFD) ratio 
+   - Top 5 in KPR in the overall tournament.
+   - His **FKFD ratio** of 2.33 was the highest in the tournament and had the greatest gap observed in the tournament, as the next highest FKFD score was 2.00.
+   - **PLAYED ONLY 90 ROUNDS**, the third-least number of rounds played by any team in the tournament.
+
+- **Player Value**
+   - Keznit had an explosive performance during his short time at Valorant Champions 2023, but due to how few rounds he played it is bound to be the case that his **performance metrics are bloated**.
+   - High-risk contract with potentially high reward if he maintains consistent performance.
+   - His outstanding performance metrics reflect his position on a team of on average underperforming players, suggesting he could be extremely valuable on a better team.
+   - Recommend reviewing his past game history leading up to Valorant Champions Tournament 2023 to assess consistency.
+
+- **Contract**
+   - The entire **KRU** roster's contracts expire in 2024, and **Keznit** might consider a switch if his team continues to underperform into the 2024 season following a poor Champions 2023 performance.
+ 
+- **Region Weakness**:
+  - **Latin America South** is an underrepresented region in esports, with only **KRU** representing the region in the tournament.
+  - Players from underrepresented regions should seek contracts in regions with stronger esports presence, like **North America** or **Europe**, for better opportunities and growth.
 
 
 ### C0m (EG)
