@@ -61,6 +61,7 @@ An Interactive PowerBI dashboard can be found [here](https://ucsdcloud-my.sharep
 
 
 ## Player Contract/Talent Acquisition Recommendations
+I focused on recommending players who have a realistic likelihood of being acquired. Therefore, I avoided franchise players and tournament super-performers who are unlikely to be traded by their respective teams, as these teams would likely renew their contracts when they end. I have focused my recommendations on players who are undervalued, efficient, and consistent.
 
 ### Ardiis (NRG) 
 ![Ardiis](https://github.com/Shanlim/Valorant-Pro-Analysis/blob/main/PlayerImages/Ardiis.png)
@@ -131,12 +132,25 @@ An Interactive PowerBI dashboard can be found [here](https://ucsdcloud-my.sharep
 
 
 
-- second best clutch rate, but the most clutches played, meaning the player is extrememly valuable underpressue
+### Player Contract/Talent Acquisition Recommendations
 
-VPR ON ROLE
-- **Contract Considerations**: When considering contracts, prioritize high VPR players from roles that consistently impact the game, like **Duelists** and **Initiators**, while also recognizing exceptional performances from underrepresented roles like **Sentinels**.
+### C0M
 
-- **Regional Contract Recommendations**: Focus on acquiring top-performing players from strong regions to ensure high-impact signings. Additionally, consider scouting emerging talents from regions with lower VPRs but high potential for growth.
+- **Overall Performance**:
+  - **Top 7 VPR in Controller Role**, **Top 24 VPR in Tournament overall**.
+  - **Top 7 VPR in North American Region**, which is the region with arguably the hardest competition.
+  - **Top 5 in Clutch %** in overall tournament, with the second most number of clutches played and the most number of clutches won overall (20/69). For context, **Cloud** is first in clutch % with 5/11 clutches (won/played).
+  - Even **FKFD ratio** of 1.00.
+
+- **Player Undervaluation**:
+  - According to VPR, C0M is a middle-of-the-pack player.
+  - May be undervalued by VPR due to clutch % being one of the lower-weighted metrics in the VPR calculations.
+  - Remaining top 5 in clutch % despite many clutch situations demonstrates his consistency under high-pressure situations.
+  - Consistent round closer and a solid player that playmaking teammates can rely on.
+
+- **Contract**:
+  - Contract ends in 2024 but may be desirable as his team **EG** would likely focus most resources on other players. By VPR, C0M was fourth on his team, and he has a very conservative FKFD ratio compared to his teammates.
+
 
    
 
